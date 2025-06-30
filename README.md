@@ -1,8 +1,8 @@
 ∎ HI👋I am priyankamurugesan.∗!
 
-∎ I'm enthusiastic about Front-End Development👩‍💻. 
+∎ I'm enthusiastic about Software Development👩‍💻. 
 
-∎ Currently learning HTML, CSS, and JavaScript🌱.
+∎ Currently learning Angular,bootstrap,excel🌱.
 
 ∎ Looking forward to collaborating on innovative web projects🎯..!  
 
